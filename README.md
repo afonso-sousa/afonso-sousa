@@ -8,7 +8,7 @@ I’m Afonso, a teaching assistant, PhD student, and aspiring data scientist. I 
 
 - 🔭 **Current Focus**: Natural Language Processing focusing on paraphrase generation.
 - 🌱 **Learning**: Advanced machine learning techniques and web development.
-- ⚡ **Fun Fact**: I love playing chess in my free time.
+- ⚡ **Fun Fact**: I love playing chess and badminton in my free time.
 
 Feel free to reach out if you'd like to collaborate or discuss ideas! 😄
 
@@ -27,22 +27,6 @@ Here are some of the projects I tinkered with in my free time:
 - **[Personal Portfolio](https://afonsousa.com/)**  
   My personal web portfolio built with   
   ![](https://shields.io/badge/react-black?logo=react&style=for-the-badge) and ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
----
-
-## 💼 Skills
-
-### Languages
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
-
-### Frameworks
-![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
-
-### Tools
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 
 ---
 
